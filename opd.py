@@ -45,19 +45,19 @@ I am a Data Science student at the University of Central Punjab, currently pursu
 
 if choice == "Projects":
     st.header("Projects")
-    st.image("muqeet0046/opd/main/opd.py/AdobeStock_519767884-1-1024x652.jpeg", width= 250)
+    st.image("AdobeStock_519767884-1-1024x652.jpeg", width= 250)
     st.subheader("Machine Learning Model")
     st.write("Description: making a accurate model by giving fifa player dataset check the model efficiency .")
     st.write("Language: Python")
     st.write("[View Source Code](https://drive.google.com/drive/folders/1Q9R4sVVPgWmmYu-lQV658Vyi04MPzvxy?usp=sharing)")
 
-    st.image("muqeet0046/opd/main/opd.py/Screenshot 2025-01-20 193255.png", width= 250)
+    st.image("Screenshot 2025-01-20 193255.png", width= 250)
     st.subheader("AVL Tree ")
     st.write("Description: This project is created on major concept of Data structure and algorithm, About how this AVL tree algorithm work and performed")
     st.write("Language: C++")
     st.write("[View Source Code](https://drive.google.com/drive/folders/1Q9R4sVVPgWmmYu-lQV658Vyi04MPzvxy?usp=sharing)")
     
-    st.image("muqeet0046/opd/main/opd.py/Screenshot 2025-01-20 200609.png", width= 250)
+    st.image("Screenshot 2025-01-20 200609.png", width= 250)
     st.subheader("Online House Renting Management System")
     st.write("Description: In this Project we created a database which include the almost all the concept  of database. To create Online House Renting database for the Client  ")
     st.write("Language: SQL")
