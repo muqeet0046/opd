@@ -8,7 +8,7 @@ choice = st.sidebar.selectbox("Navigation", menu)
 if choice == "Home":
 
     st.title("Welcome to My Portfolio")
-    st.image("muqeet0046/opd/main/opd.py/profile.png", width= 300)
+    st.image("profile.png", width= 300)
     st.write("""
     ## Hello! I'm Abdul Muqeet Madni
 
